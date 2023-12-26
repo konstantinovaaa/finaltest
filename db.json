@@ -1,0 +1,95 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "i sana",
+        "author": "sana"
+      },
+      {
+        "id": 2,
+        "title": "i vana",
+        "author": "vana"
+      },
+      {
+        "id": 3,
+        "title": "i max",
+        "author": "max"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "title": "i fill",
+        "author": "fill"
+      },
+      {
+        "id": 2,
+        "title": "i oleg",
+        "author": "oleg"
+      },
+      {
+        "id": 3,
+        "title": "i dima",
+        "author": "dima"
+      }
+    ],
+    "users": [
+      {
+        "name": "i mark",
+        "age": "10",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "name": "sana",
+        "age": "11"
+      },
+      {
+        "id": 3,
+        "name": "max",
+        "age": 12
+      },
+      {
+        "id": 5,
+        "name": "egor",
+        "age": 13
+      }
+    ],
+    "design_course": [
+      {
+        "id": 1,
+        "title": "i egor",
+        "author": "egor"
+      },
+      {
+        "id": 2,
+        "title": "i kirill",
+        "author": "kirill"
+      },
+      {
+        "id": 3,
+        "title": "i vasa",
+        "author": "vasa"
+      }
+    ],
+    "studio": [
+      {
+        "id": 1,
+        "name": "i tola",
+        "founder": "tola"
+      },
+      {
+        "id": 2,
+        "name": "i nirlan",
+        "founder": "nirlan"
+      },
+      {
+        "id": 3,
+        "name": "i kobu",
+        "founder": "kobu"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
